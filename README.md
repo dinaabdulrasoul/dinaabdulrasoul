@@ -41,4 +41,4 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DinaAbdulrasoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] Linkedin:(https://www.linkedin.com/in/dina-abdulrasoul)
+<a href="https://linkedin.com/in/dina-abdulrasoul"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
