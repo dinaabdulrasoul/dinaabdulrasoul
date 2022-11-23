@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>  
   
 - <b> Web Development Projects  </b>  
-  - [Bargain Marketplace](https://github.com/dinaabdulrasoul/Bargain-Marketplace-Frontend)    
   - [WordPress Projects](https://github.com/dinaabdulrasoul/WordPress-Development)    
   - [Wikiseeker - A Wikipedia Search Engine](https://github.com/dinaabdulrasoul/Wiki-Seeker)    
   - Alfred the Smart Assistant - Confidental Project    
   - Vehicle Management System - Confidental Project    
+  - Bargain Marketplace
 
 - <b> Desktop Applications & GUI Projects</b>
   - [XML Editor](https://github.com/dinaabdulrasoul/xml-editor)  - [Task Management System](https://github.com/dinaabdulrasoul/TMS)
