@@ -41,4 +41,7 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://linkedin.com/in/dina-abdulrasoul"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+[linkedin]: https://linkedin.com/in/dina-abdulrasoul
+
