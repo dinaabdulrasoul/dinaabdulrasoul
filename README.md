@@ -9,16 +9,16 @@
   - Alfred the Smart Assistant - Confidental Project
   - Vehicle Management System - Confidental Project
   
-- <b>Game Projects using Python</b>
-  - [Alien Invasion](https://github.com/dinaabdulrasoul/Alien-Invasion-Game)</b>
-  - [Kenken Puzzle](https://github.com/dinaabdulrasoul/Kenken-puzzle)
-  
 - <b>Desktop Applications & GUI Projects</b>
   - [XML Editor](https://github.com/dinaabdulrasoul/xml-editor)  - [Task Management System](https://github.com/dinaabdulrasoul/TMS)
   - [CPU Scheduler Simulator](https://github.com/dinaabdulrasoul/CPU-Job-Scheduler)
   - [Task Management System](https://github.com/dinaabdulrasoul/TMS)
   - [Tiny Language Scanner & Parser](https://github.com/dinaabdulrasoul/Tiny_Scanner)
   - [Blockchain Simulator](https://github.com/dinaabdulrasoul/blockchain)
+
+- <b>Game Projects using Python</b>
+  - [Alien Invasion](https://github.com/dinaabdulrasoul/Alien-Invasion-Game)</b>
+  - [Kenken Puzzle](https://github.com/dinaabdulrasoul/Kenken-puzzle)
 
 - <b>Machine Learning Projects</b>
   - [Lane Line Detection](https://github.com/dinaabdulrasoul/Lane_Line_Detection)
@@ -31,5 +31,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DinaAbdulrasoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/dina-abdulrasoul
+[<img align="left" alt="DinaAbdulrasoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dina-abdulrasoul)
