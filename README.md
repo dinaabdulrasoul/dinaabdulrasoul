@@ -1,6 +1,7 @@
 <h1>Hi, I'm Dina! <br/><a href="https://github.com/dinaabdulrasoul">Software Engineer</a> <a href="https://www.linkedin.com/in/dina-abdulrasoul">  
 
 <h2>👨‍💻 Software Development Projects:</h2>  
+  
   - <b> Web Development Projects  </b>  
   - [Bargain Marketplace](https://github.com/dinaabdulrasoul/Bargain-Marketplace-Frontend)    
   - [WordPress Projects](https://github.com/dinaabdulrasoul/WordPress-Development)    
