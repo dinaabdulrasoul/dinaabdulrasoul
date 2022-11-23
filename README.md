@@ -1,11 +1,21 @@
 <h1>Hi, I'm Dina! <br/><a href="https://github.com/dinaabdulrasoul">Software Engineer</a> <a href="https://www.linkedin.com/in/dina-abdulrasoul">
-
-<h2>👨‍💻 Software Development Projects:</h2>
+🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 - <b> Web Development Projects using (Javascript, Reactjs, MUI, NodeJs & some ML)</b>
   - [Bargain Marketplace](https://github.com/dinaabdulrasoul/Bargain-Marketplace-Frontend)
-  - [Wikiseeker - A Wikipedia Search Engine](https://github.com/dinaabdulrasoul/Wiki-Seeker)
   - [WordPress Projects](https://github.com/dinaabdulrasoul/WordPress-Development)
+  - [Wikiseeker - A Wikipedia Search Engine](https://github.com/dinaabdulrasoul/Wiki-Seeker)
   - Alfred the Smart Assistant - Confidental Project
   - Vehicle Management System - Confidental Project
   
@@ -31,4 +41,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DinaAbdulrasoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dina-abdulrasoul)
+[<img align="left" alt="DinaAbdulrasoul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [Linkedin:](https://www.linkedin.com/in/dina-abdulrasoul)
