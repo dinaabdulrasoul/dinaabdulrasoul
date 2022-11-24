@@ -10,7 +10,7 @@
   - Bargain Marketplace
 
 - <b> Desktop Applications & GUI Projects</b>
-  - [XML Editor](https://github.com/dinaabdulrasoul/xml-editor)  - [Task Management System](https://github.com/dinaabdulrasoul/TMS)
+  - [XML Editor](https://github.com/dinaabdulrasoul/xml-editor)  
   - [CPU Scheduler Simulator](https://github.com/dinaabdulrasoul/CPU-Job-Scheduler)
   - [Task Management System](https://github.com/dinaabdulrasoul/TMS)
   - [Tiny Language Scanner & Parser](https://github.com/dinaabdulrasoul/Tiny_Scanner)
