@@ -4,10 +4,10 @@
   
 - <b> Web Development Projects  </b>  
   - [WordPress Projects](https://github.com/dinaabdulrasoul/WordPress-Development)    
-  - [Wikiseeker - A Wikipedia Search Engine](https://github.com/dinaabdulrasoul/Wiki-Seeker)    
   - Alfred the Smart Assistant - Confidental Project    
   - Vehicle Management System - Confidental Project    
   - Bargain Marketplace
+  - [Wikiseeker - A Wikipedia Search Engine](https://github.com/dinaabdulrasoul/Wiki-Seeker)    
 
 - <b> Desktop Applications & GUI Projects</b>
   - [XML Editor](https://github.com/dinaabdulrasoul/xml-editor)  
